@@ -1,0 +1,51 @@
+.main {
+    margin-top: 80px;
+    background-color: rgb(190, 190, 212);
+    border: 1px solid red;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    text-align: center;
+
+}
+.inp{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 280px;
+}
+input {
+    width: 50px;
+    height: 50px;
+}
+div{
+    margin-top: 40px;
+}
+.result {
+    text-align: center;
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.sms{
+    margin-bottom: -10px;
+    border: 1px solid black;
+    width: 300px;
+    height: 20px;
+    margin-left: 180px;
+    text-align: center;
+}
+/* .sms1{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 180px;
+    text-align: center;
+} */
+.sms:hover{
+    background-color: blueviolet;
+    color: blue;
+}
+/* .sms1:hover{
+    background-color: red;
+    color: green;
+} */
